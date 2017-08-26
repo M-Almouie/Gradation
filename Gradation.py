@@ -1,6 +1,6 @@
 #Login
 
-users = {'Moey':'nano2831996','nano':'moey1611997'}
+users = {'Moey':'nano','nano':'moey'}
 userCode = ['BOSTES']
 
 #Function
